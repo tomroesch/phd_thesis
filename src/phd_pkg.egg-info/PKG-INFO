@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: phd_pkg
+Version: 0.0.1
+Author-email: Tom Röschinger <tom@roeschinger.de>
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pandas
+Dynamic: license-file
+
+# phd_thesis
+Yes I am actially doing it.

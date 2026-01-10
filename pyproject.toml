@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phd_pkg"
+version = "0.0.1"
+dependencies = [
+  "matplotlib",
+  "numpy",
+  "pandas",
+]
+authors = [
+  {name = "Tom Röschinger", email = "tom@roeschinger.de"}
+]
+readme = "README.md"
